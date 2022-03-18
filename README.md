@@ -1,11 +1,9 @@
-Senior Full-Stack Engineer & Small-SaaS on-the-side Entrepreneur
+Hello! I'm a Senior Full-Stack Engineer, mainly focused on tech like:
 
-* NodeJS
-* TypeScript ❤️
-* React
-* Recoil
+* NodeJS / JavaScript / TypeScript ❤️
+* React / Recoil
 * Tailwind CSS
-* Python
-* MySQL / Postgresql / MongoDB
+* Python / NLP / Tensorflow
+* MySQL / Postgresql / MongoDB / Redis / Firebase
 
-Always learning to be better. Learning DL/ML/NLP.
+I also have some side projects that I do on my free time. Including a Chrome Extension with 1,000+ users.
