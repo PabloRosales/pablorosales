@@ -12,7 +12,3 @@ I also have some side projects that I do on my free time. Including a Chrome Ext
 A few times per year I also paint.
 
 ![Paintings](./paintings.jpg)
-
-And sometimes I create little piano sketches/improvisations for future compositions:
-
-https://soundcloud.com/pablo-rosales-70412083/sets/improvisations-sketches
