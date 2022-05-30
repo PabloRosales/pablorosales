@@ -1,14 +1,15 @@
-Hello! I'm a Senior Full-Stack Engineer, mainly focused on tech like:
+Hello! I'm a Senior Full-Stack Engineer, currently building an SEO SaaS.
 
-* NodeJS / JavaScript / TypeScript ❤️
-* React / Recoil
-* Tailwind CSS
-* Python / NLP / Tensorflow
-* MySQL / Postgresql / MongoDB / Redis / Firebase
-* Java / LibGDX
+Mainly focused on tech like:
 
-I also have some side projects that I do on my free time. Including a Chrome Extension with 1,000+ users and an SEO SaaS on the weekends.
+* NodeJS / JavaScript / TypeScript ❤️ / React
+* Python / PyTorch / Tensorflow
+* MySQL / Postgresql / MongoDB / Redis / Firebase / RabbitMQ
+* Docker / Linux
+* Slowly learning AI / ML / NLP
 
-A few times per year I also paint.
+I also have some side projects that I do on my free time. 
+
+Some times I paint too.
 
 ![Paintings](./paintings.jpg)
