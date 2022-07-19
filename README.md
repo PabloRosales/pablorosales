@@ -1,13 +1,9 @@
 Hello! I'm a Senior Full-Stack Engineer.
 
-Mainly focused on tech like:
+Some of the tech I love: NodeJS / TypeScript / React / Postgresql / MongoDB / Redis / RabbitMQ / Docker / Linux
 
-* NodeJS / JavaScript / TypeScript ❤️ / React
-* Python / PyTorch / Tensorflow
-* MySQL / Postgresql / MongoDB / Redis / Firebase / RabbitMQ
-* Docker / Linux
-* Slowly learning AI / ML / NLP
+I'm learning AI/NLP
 
-Some times I paint too.
+Some times I paint too!
 
 ![Paintings](./paintings.jpg)
